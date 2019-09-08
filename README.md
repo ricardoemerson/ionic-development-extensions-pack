@@ -1,6 +1,6 @@
-# VS Code Ionic Development Extensions Pack
+# Ionic Development Extensions Pack
 
-This extension pack packages some useful extensions for Ionic development in VS Code.
+This extension package contains useful extensions for working with Ionic in visual studio code.
 
 ### Extensions Included
 
